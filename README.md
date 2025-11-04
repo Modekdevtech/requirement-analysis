@@ -1,4 +1,4 @@
-# requirement-analysis
+# Requirement-analysis
 A comprehensive guide to Requirement Analysis in software development, helping define project scope and prevent scope creep.
 
 # Requirement Analysis in Software Development
@@ -106,6 +106,35 @@ Requirement Analysis involves several **critical activities** to ensure that sof
 - **Requirement Validation**  
   - Confirm that documented requirements **accurately reflect stakeholder needs**.  
   - Techniques include **reviews, inspections, walkthroughs, and approval from stakeholders** to ensure correctness and clarity.
+
+## **Types of Requirements**
+
+Requirements in software development are generally classified into **Functional** and **Non-functional** requirements. Understanding the difference is essential for clear specification and successful project implementation.
+
+### **1. Functional Requirements**
+
+**Definition:**  
+Functional requirements describe **what the system should do**. They define the specific behavior, functions, and features of the system.
+
+**Examples for a Booking Management Project:**  
+- The system shall allow users to **create, update, and cancel bookings**.  
+- The system shall send **email notifications** to users after booking confirmation.  
+- The system shall generate **daily, weekly, and monthly reports** of bookings.  
+- The system shall **validate user input** (e.g., check for valid dates and available time slots).  
+
+---
+
+### **2. Non-functional Requirements**
+
+**Definition:**  
+Non-functional requirements describe **how the system performs**, including constraints and quality attributes, rather than specific behavior.
+
+**Examples for a Booking Management Project:**  
+- The system shall handle **at least 1000 concurrent users** without performance degradation.  
+- The system shall ensure **data security** by encrypting sensitive information.  
+- The system shall have an **uptime of 99.9%** per month.  
+- The system shall provide a **user-friendly interface** that is accessible on desktop and mobile devices.  
+
 
 
 ---
