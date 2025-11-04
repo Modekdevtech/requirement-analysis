@@ -81,7 +81,32 @@ Proper Requirement Analysis helps teams:
 - Clearly **define project scope**  
 - Avoid **miscommunication with stakeholders**  
 - Reduce the risk of **scope creep**  
-- Deliver **high-quality software** efficiently  
+- Deliver **high-quality software** efficiently
+
+## **Key Activities in Requirement Analysis**
+
+Requirement Analysis involves several **critical activities** to ensure that software requirements are accurately captured, analyzed, and validated. The five key activities include:
+
+- **Requirement Gathering**  
+  - Collect information from all relevant stakeholders, including clients, users, and project managers.  
+  - Use techniques such as interviews, questionnaires, surveys, and document reviews to gather raw data.
+
+- **Requirement Elicitation**  
+  - Actively engage with stakeholders to uncover their **actual needs and expectations**.  
+  - Clarify ambiguous requirements and explore hidden or unstated requirements through discussions and workshops.
+
+- **Requirement Documentation**  
+  - Formally record all gathered requirements in a structured format.  
+  - Commonly results in a **Software Requirements Specification (SRS)** document that serves as a reference for the development team.
+
+- **Requirement Analysis and Modeling**  
+  - Examine requirements to ensure they are **complete, consistent, feasible, and measurable**.  
+  - Use models, diagrams (e.g., use case diagrams, data flow diagrams), and prototypes to represent requirements visually.
+
+- **Requirement Validation**  
+  - Confirm that documented requirements **accurately reflect stakeholder needs**.  
+  - Techniques include **reviews, inspections, walkthroughs, and approval from stakeholders** to ensure correctness and clarity.
+
 
 ---
 
