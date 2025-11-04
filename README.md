@@ -120,7 +120,32 @@ Functional requirements describe **what the system should do**. They define the 
 - The system shall allow users to **create, update, and cancel bookings**.  
 - The system shall send **email notifications** to users after booking confirmation.  
 - The system shall generate **daily, weekly, and monthly reports** of bookings.  
-- The system shall **validate user input** (e.g., check for valid dates and available time slots).  
+- The system shall **validate user input** (e.g., check for valid dates and available time slots).
+
+
+## **Acceptance Criteria**
+
+**Definition:**  
+Acceptance Criteria are **specific conditions or requirements that a software product must meet** for a feature to be considered complete and acceptable by stakeholders. They provide a clear standard for developers, testers, and clients to verify that the feature works as intended.
+
+### **Importance in Requirement Analysis**
+
+- Ensures **clarity and alignment** between stakeholders and the development team.  
+- Helps **prevent misunderstandings** about feature expectations.  
+- Serves as a **basis for testing and validation**, ensuring the feature meets the agreed requirements.  
+- Supports **quality assurance** and reduces rework by providing measurable success criteria.  
+
+### **Example: Checkout Feature in a Booking Management System**
+
+**Acceptance Criteria:**  
+1. Users can **view their selected bookings** before proceeding to checkout.  
+2. Users can **apply promo codes or discounts**, and the total price updates correctly.  
+3. Users can **enter valid payment information** and submit the payment securely.  
+4. The system **confirms the booking** via email immediately after successful payment.  
+5. Users receive **error messages** for invalid inputs, such as incorrect card numbers or expired dates.  
+
+> Acceptance Criteria help ensure that the Checkout feature functions correctly, meets user expectations, and passes all quality checks before release.
+
 
 ---
 
