@@ -181,6 +181,7 @@ Below is an example use case diagram for the booking system:
 - **Customer:** Create Booking, Update Booking, Cancel Booking, Receive Notifications  
 - **Admin:** Manage Bookings, Generate Reports, Manage Users
 
+
 ## Types of Wireframes
 
 Wireframes are visual guides that represent the structure and layout of a web page or app interface.  
