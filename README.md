@@ -181,6 +181,20 @@ Below is an example use case diagram for the booking system:
 - **Customer:** Create Booking, Update Booking, Cancel Booking, Receive Notifications  
 - **Admin:** Manage Bookings, Generate Reports, Manage Users
 
+## Types of Wireframes
+
+Wireframes are visual guides that represent the structure and layout of a web page or app interface.  
+They help designers and developers plan where each element will appear before actual design begins.  
+
+### 1. Low-Fidelity Wireframes
+These are basic sketches showing simple layouts and element placements without detailed styling.
+
+### 2. Mid-Fidelity Wireframes
+These include more accurate spacing, content grouping, and a clearer representation of interface behavior.
+
+### 3. High-Fidelity Wireframes
+These look closest to the final design, often including colors, fonts, and detailed interactions.
+
 
 ---
 
